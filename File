@@ -1,7 +1,3 @@
-package PilhaFila;
-
-import Lista.No;
-
 public class MyFileD <T> {
     private Lista.No<T> primeiro;
     private Lista.No<T> ultimo;
