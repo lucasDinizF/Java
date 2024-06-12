@@ -1,4 +1,4 @@
-/*package Lista;
+package Lista;
 
 public class MyListD<T> {
 
@@ -120,4 +120,4 @@ public class MyListD<T> {
 
 
 
-}*/
+}
